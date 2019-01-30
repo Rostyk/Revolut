@@ -1,5 +1,6 @@
 # Revolut Demo
 
+[Demo video link](https://youtu.be/H-H-S5sAUlI)
 ### View side of things:
 
 ```swift
@@ -43,7 +44,7 @@ extension YourViewController: CurrencyPresentable {
         }
 ```
 
-#### API wrapper. All time favourite singleton :) Could be something more elegant ofcourse.
+#### API wrapper. All time favourite singleton :) Could be something more elegant ofcourse. Like interactors to be more VIPER-ish.
 
 ```swift
 RevolutAPI.shared.getCurrencies(baseCurrency: baseCurrency) { [weak self] (response, error) in
