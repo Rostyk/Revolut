@@ -1,4 +1,4 @@
-[Demo video link](https://youtu.be/H-H-S5sAUlI)
+[Video link](https://youtu.be/H-H-S5sAUlI)
 ### View side of things:
 
 ```swift
