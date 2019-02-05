@@ -1,5 +1,3 @@
-# Revolut Demo
-
 [Demo video link](https://youtu.be/H-H-S5sAUlI)
 ### View side of things:
 
